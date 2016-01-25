@@ -1,0 +1,19 @@
+/bin/
+/kuromoji-0.7.7/
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.settings
+.metadata
+
+# OS
+.DS_Store
+
+#Other
+*.bak
